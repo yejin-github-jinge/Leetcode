@@ -163,6 +163,27 @@ public class LevelTrave {
         }
     }
 
+    /*思路：每到一个节点 A，因为根的访问在中间，将 A 入栈。然后遍历左子树，接着访问 A，最后遍历右子树。
+
+在访问完 A 后，A 就可以出栈了。因为 A 和其左子树都已经访问完成。
+思路：
+
+栈S;
+p= root;
+while(p || S不空){
+    while(p){
+        p入S;
+        p = p的左子树;
+    }
+    p = S.top 出栈;
+    访问p;
+    p = p的右子树;
+}
+
+https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/die-dai-fa-by-jason-2/
+*/
+
+    //非递归中序 用stack
     public static List<Integer> midTraveByStack(TreeNode root){
         List<Integer> list = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();

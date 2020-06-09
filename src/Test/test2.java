@@ -1,6 +1,8 @@
 package Test;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 import static java.lang.System.out;
@@ -53,9 +55,40 @@ public class test2 {
         root.right = treeNode1;
         treeNode1.left = treeNode2;
         treeNode1.right = treeNode3;
+        flatten(root);
         //isBalanced(root);
         //levelTrave(root);
         //test queue
+    }
+
+
+
+
+    public static void flatten(TreeNode root) {
+        TreeNode tree = root;
+        List<Integer> list = new ArrayList<>();
+        if (root == null){
+            return;
+        }
+        //先序拿到列表
+        list = preOrder(tree,list);
+        for(int i = 1; i < list.size();i++){
+            TreeNode treeNode = new TreeNode(list.get(i));
+            root.right = treeNode;
+            root.left = null;
+            root = root.right;
+        }
+        out.println("end ");
+    }
+
+    public static List<Integer> preOrder(TreeNode tree,List<Integer> list){
+        if(tree == null){
+            return list;
+        }
+        list.add(tree.value);
+        preOrder(tree.left,list);
+        preOrder(tree.right,list);
+        return list;
     }
 
     public static void testQueue(){

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c488e1a8-af55-4bb4-b679-503cf9cdb52c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Test/TestClass.java" afterDir="false" />
+    <list default="true" id="c488e1a8-af55-4bb4-b679-503cf9cdb52c" name="Default Changelist" comment="test-tree-mid-pre-not-recursive">
+      <change afterPath="$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/TestClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeCode/LevelTrave.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="114">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,10 +34,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <state relative-caret-position="171">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,8 +61,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="168">
               <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1216">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/Test/test2.java" />
         <option value="$PROJECT_DIR$/src/TreeCode/LevelTrave.java" />
         <option value="$PROJECT_DIR$/src/Test/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -106,12 +145,16 @@
     <option name="width" value="1440" />
     <option name="height" value="825" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,12 +166,6 @@
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -146,8 +183,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,9 +209,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestClass">
-    <configuration name="LevelTrave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeCode.LevelTrave" />
+  <component name="RunManager" selected="Application.DiffBinarySearchTree">
+    <configuration name="DiffBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeCode.DiffBinarySearchTree" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -188,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Test" />
+    <configuration name="LevelTrave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeCode.LevelTrave" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="TreeCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiffBinarySearchTree" />
         <item itemvalue="Application.TestClass" />
         <item itemvalue="Application.LevelTrave" />
         <item itemvalue="Application.test2" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -274,6 +309,7 @@
       <workItem from="1591529796422" duration="1141000" />
       <workItem from="1591623857684" duration="62000" />
       <workItem from="1591623951622" duration="381000" />
+      <workItem from="1591668112387" duration="2108000" />
     </task>
     <task id="LOCAL-00001" summary="test-leetcode">
       <created>1591530299766</created>
@@ -289,25 +325,33 @@
       <option name="project" value="LOCAL" />
       <updated>1591530518439</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test-tree-mid-pre-not-recursive">
+      <created>1591665743679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591665743679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48961000" />
+    <option name="totallyTimeSpent" value="53026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49885058" visible="true" weight="0.21503638" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49885058" visible="true" weight="0.2069523" />
       <window_info id="Structure" order="1" sideWeight="0.5011494" side_tool="true" weight="0.2497979" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5032258" side_tool="true" weight="0.2497979" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22380106" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36524823" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3463588" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.54706925" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -315,9 +359,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.740675" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32978722" />
-      <window_info anchor="right" id="jclasslib" weight="0.5206144" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -325,15 +370,27 @@
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="jclasslib" order="7" weight="0.5626516" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test-leetcode" />
     <MESSAGE value="test-leetcode-delete-compile" />
-    <option name="LAST_COMMIT_MESSAGE" value="test-leetcode-delete-compile" />
+    <MESSAGE value="test-tree-mid-pre-not-recursive" />
+    <option name="LAST_COMMIT_MESSAGE" value="test-tree-mid-pre-not-recursive" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -434,17 +491,17 @@
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="2065" column="18" selection-start-line="2065" selection-start-column="18" selection-end-line="2065" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/StringCode/ReplaceBlack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -462,13 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="3593" column="67" selection-start-line="3593" selection-start-column="58" selection-end-line="3593" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/src/ArrayCode/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -493,13 +544,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="373" column="23" selection-start-line="373" selection-start-column="23" selection-end-line="373" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collections.java" />
     <entry file="file://$PROJECT_DIR$/src/TreeCode/BinaryTreeCyc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
@@ -514,10 +559,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java" />
+    <entry file="file://$PROJECT_DIR$/src/TreeCode/LevelTrave.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3072">
-          <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
+        <state relative-caret-position="114">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -528,17 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="102" column="25" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="1311">
+          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -547,18 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="168">
           <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeCode/LevelTrave.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -567,8 +600,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        <state relative-caret-position="171">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

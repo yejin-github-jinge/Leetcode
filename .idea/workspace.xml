@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c488e1a8-af55-4bb4-b679-503cf9cdb52c" name="Default Changelist" comment="test-tree-mid-pre-not-recursive">
-      <change afterPath="$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java" afterDir="false" />
+    <list default="true" id="c488e1a8-af55-4bb4-b679-503cf9cdb52c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort/MaoPaoSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCode/CountChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCode/HuiWenStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCode/MaxSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCode/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeCode/VerifyBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/TestClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,23 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TreeCode/LevelTrave.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java">
+        <entry file="file://$PROJECT_DIR$/src/StringCode/HuiWenStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="-152">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,46 +45,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/TestClass.java">
+        <entry file="file://$PROJECT_DIR$/src/Test/test5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/Test.java">
+        <entry file="jar://$PROJECT_DIR$/../../../../develop/java/jdk/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="67">
+              <caret line="1957" column="56" selection-start-line="1957" selection-start-column="48" selection-end-line="1957" selection-end-column="56" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1216">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#66457#66458#0" expanded="true" />
+                <element signature="e#66495#66496#0" expanded="true" />
+                <element signature="e#82971#82972#0" expanded="true" />
+                <element signature="e#83020#83021#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,6 +80,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>isEmpty</find>
+      <find>*</find>
+      <find>hash</find>
+      <find>hashcode</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -122,12 +102,23 @@
         <option value="$PROJECT_DIR$/src/ArrayCode/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/MathCode/ShuLie.java" />
         <option value="$PROJECT_DIR$/src/TreeCode/Duicheng.java" />
-        <option value="$PROJECT_DIR$/src/Test/Test.java" />
         <option value="$PROJECT_DIR$/src/Test/Test1.java" />
-        <option value="$PROJECT_DIR$/src/Test/test2.java" />
         <option value="$PROJECT_DIR$/src/TreeCode/LevelTrave.java" />
-        <option value="$PROJECT_DIR$/src/Test/TestClass.java" />
         <option value="$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/Sort/MaoPaoSort.java" />
+        <option value="$PROJECT_DIR$/src/Sort/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/Sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/TreeCode/VerifyBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Test/test3.java" />
+        <option value="$PROJECT_DIR$/src/Test/Test.java" />
+        <option value="$PROJECT_DIR$/src/Test/test2.java" />
+        <option value="$PROJECT_DIR$/src/Test/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/Test/test4.java" />
+        <option value="$PROJECT_DIR$/src/StringCode/CountChar.java" />
+        <option value="$PROJECT_DIR$/src/StringCode/MaxSubString.java" />
+        <option value="$PROJECT_DIR$/src/StringCode/StringReverse.java" />
+        <option value="$PROJECT_DIR$/src/Test/test5.java" />
+        <option value="$PROJECT_DIR$/src/StringCode/HuiWenStr.java" />
       </list>
     </option>
   </component>
@@ -153,8 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,22 +156,12 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TreeCode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,13 +188,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiffBinarySearchTree">
-    <configuration name="DiffBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeCode.DiffBinarySearchTree" />
+  <component name="RunManager" selected="Application.HuiWenStr">
+    <configuration name="CountChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCode.CountChar" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TreeCode.*" />
+          <option name="PATTERN" value="StringCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LevelTrave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeCode.LevelTrave" />
+    <configuration name="HuiWenStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCode.HuiWenStr" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TreeCode.*" />
+          <option name="PATTERN" value="StringCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Test1" />
+    <configuration name="MaxSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCode.MaxSubString" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="StringCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.TestClass" />
+    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringCode.StringReverse" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="StringCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,8 +241,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.test2" />
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.test5" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -277,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DiffBinarySearchTree" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.LevelTrave" />
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.HuiWenStr" />
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Application.StringReverse" />
+        <item itemvalue="Application.MaxSubString" />
+        <item itemvalue="Application.CountChar" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +288,12 @@
       <workItem from="1591529796422" duration="1141000" />
       <workItem from="1591623857684" duration="62000" />
       <workItem from="1591623951622" duration="381000" />
-      <workItem from="1591668112387" duration="2108000" />
+      <workItem from="1591668112387" duration="2967000" />
+      <workItem from="1592189245942" duration="4841000" />
+      <workItem from="1592358965179" duration="5328000" />
+      <workItem from="1592443428964" duration="12283000" />
+      <workItem from="1592532031140" duration="5903000" />
+      <workItem from="1592793681416" duration="4658000" />
     </task>
     <task id="LOCAL-00001" summary="test-leetcode">
       <created>1591530299766</created>
@@ -332,26 +316,33 @@
       <option name="project" value="LOCAL" />
       <updated>1591665743679</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test-n-tree-list">
+      <created>1591690522893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591690522893</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53026000" />
+    <option name="totallyTimeSpent" value="86898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49885058" visible="true" weight="0.2069523" />
-      <window_info id="Structure" order="1" sideWeight="0.5011494" side_tool="true" weight="0.2497979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.66343826" visible="true" weight="0.2489895" />
+      <window_info id="Structure" order="1" sideWeight="0.33656174" side_tool="true" visible="true" weight="0.2489895" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5032258" side_tool="true" weight="0.2497979" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3463588" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.54706925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28596804" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.26642984" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -360,9 +351,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.740675" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32978722" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -371,6 +360,8 @@
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="jclasslib" order="7" weight="0.5626516" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,7 +381,8 @@
     <MESSAGE value="test-leetcode" />
     <MESSAGE value="test-leetcode-delete-compile" />
     <MESSAGE value="test-tree-mid-pre-not-recursive" />
-    <option name="LAST_COMMIT_MESSAGE" value="test-tree-mid-pre-not-recursive" />
+    <MESSAGE value="test-n-tree-list" />
+    <option name="LAST_COMMIT_MESSAGE" value="test-n-tree-list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -492,13 +484,100 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java</url>
-          <line>53</line>
+          <url>file://$PROJECT_DIR$/src/Sort/MaoPaoSort.java</url>
+          <line>27</line>
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/TestClass.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/TestClass.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/test4.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/test4.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/test4.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/test4.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringCode/MaxSubString.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringCode/HuiWenStr.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>stringBuilder.reverse().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stringBuilder.reverse().toString() == str</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stringBuilder.reverse().toString() == string1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stringBuilder</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stringBuilder.reverse()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stringBuilder.reverse() == stringBuilder1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stringBuilder.reverse() == stringBuilder</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java" />
@@ -520,13 +599,6 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/ArrayCode/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MathCode/ShuLie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -561,6 +633,27 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayCode/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/MaoPaoSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="36" selection-start-line="36" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeCode/LevelTrave.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -571,17 +664,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/Sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="321">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/test2.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+        <state relative-caret-position="361">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -590,29 +683,158 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="583">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="-549">
+          <caret line="56" column="42" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
           <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../develop/java/jdk/src.zip!/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29355">
+          <caret line="1613" column="23" selection-start-line="1613" selection-start-column="23" selection-end-line="1613" selection-end-column="23" />
+          <folding>
+            <element signature="e#61227#61228#0" expanded="true" />
+            <element signature="e#61264#61265#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeCode/DiffBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="608">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../develop/java/jdk/src.zip!/java/lang/CharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-382">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../develop/java/jdk/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../develop/java/jdk/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="86" column="24" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringCode/MaxSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringCode/StringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringCode/CountChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="73" column="51" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeCode/VerifyBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" selection-start-line="4" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="77" column="32" lean-forward="true" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../develop/java/jdk/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="398" column="25" selection-start-line="398" selection-start-column="25" selection-end-line="398" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../develop/java/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="1957" column="56" selection-start-line="1957" selection-start-column="48" selection-end-line="1957" selection-end-column="56" />
+          <folding>
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringCode/HuiWenStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

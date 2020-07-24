@@ -21,9 +21,14 @@ public class Test {
 
         listList.add(list2);
 
-        System.out.println(listList);
+        //System.out.println(listList);
         Collections.reverse(listList);
-        System.out.println(listList);
+       // System.out.println(listList);
+
+        List list3 = list1;
+        list3.add(22);
+        System.out.println("list1" + list1);
+        System.out.println("list3" + list3);
 
         System.out.println(5/2);
     }

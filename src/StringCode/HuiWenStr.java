@@ -11,7 +11,7 @@ public class HuiWenStr {
 
     public static String longestPalindrome(String s) {
         if(s.length() == 0)
-            return null;
+            return "";
 
         int length = s.length();
         char [] arr = s.toCharArray();
